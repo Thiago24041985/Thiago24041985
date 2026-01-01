@@ -1,7 +1,7 @@
 ### olá  👋
 
 
-Eu me chamo Thiago atualmente estou cursando Ciencia de dados e este projetos faz parte do meu processo de aprendizado, onde aplico tecnicas de:
+Eu me chamo Thiago atualmente estou cursando Ciência de dados e este projetos faz parte do meu processo de aprendizado, onde aplico tecnicas de:
 
 Análise exploratorio de dados
 limpeza  e tratamento de dados
