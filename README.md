@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Thiago</h1>
-<h3 align="center">Apaixonado por Sou apaixonado em dados e transformar dados em soluções inteligentes</h3>
+<h3 align="center"> Sou apaixonado em dados e transformar dados em soluções inteligentes</h3>
 
 - 🔭Atualmente estou estudando ciêntista de dados e o curso estar em andamneto [Projeto final python em análise de dados](https://colab.research.google.com/drive/1eV3HjgXa-WLrBqtsZK-aTMO02pNOM0Dx?usp=sharing)
 
