@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, eu souuu Thiago</h1>
+<h1 align="center">Olá 👋, eu sou Thiago</h1>
 <h3 align="center">Apaixonado por Sou apaixonado em dados e transformar dados em soluções inteligentes</h3>
 
 - 🔭Atualmente estou estudando ciêntista de dados e o curso estar em andamneto [Projeto final python em análise de dados](https://colab.research.google.com/drive/1eV3HjgXa-WLrBqtsZK-aTMO02pNOM0Dx?usp=sharing)
 
 - 🌱 Atualmente estou aprendendo **Python,SQL,Regressão linear,machine learn,limpeza de dados,exploração de dados,arvores e decisão**
 
-- 💬 Me questione sobre **SQL,Pawer Bi,Matplotlib,Seaborn,Pandas,Numpy,y**
+- 💬 Me questione sobre **SQL,Pawer Bi,Matplotlib,Seaborn,Pandas,Numpy**
 
 - 📫 Você me acha **tfranca258@gmail.com**
 
