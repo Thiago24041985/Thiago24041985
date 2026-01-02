@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou [Thiago]
+# 👋 Olá, eu sou Thiago
 
 🎯 **Cientista de Dados | Analista de Dados | Machine Learning**
 
-Sou apaixonado(a) por transformar dados em insights e soluções inteligentes. Tenho interesse em estatística, machine learning e visualização de dados, sempre buscando aprender e aplicar novas técnicas.
+Sou apaixonado(ciência de dados e analise de dados) por transformar dados em  soluções inteligentes. Tenho interesse em estatística, machine learning e visualização de dados, sempre buscando aprender e aplicar novas técnicas.
 
 ---
 
@@ -10,7 +10,7 @@ Sou apaixonado(a) por transformar dados em insights e soluções inteligentes. T
 - 📚 Estudante / Profissional de **Ciência de Dados**
 - 📈 Interesse em **Análise de Dados, Machine Learning **
 - 🔍 Curioso(a) por padrões, previsões e storytelling com dados
-- 🚀 Atualmente aprendendo: **[ex: Deep Learning, NLP, MLOps]**
+- 🚀 Atualmente aprendendo: **[]**
 
 ---
 
@@ -29,7 +29,6 @@ Sou apaixonado(a) por transformar dados em insights e soluções inteligentes. T
 
 **Banco de Dados**
 - MySQL | PostgreSQL | SQLite
-- MongoDB (opcional)
 
 **Ferramentas**
 - Git & GitHub
@@ -40,26 +39,32 @@ Sou apaixonado(a) por transformar dados em insights e soluções inteligentes. T
 ---
 
 ## 📂 Projetos em Destaque
-🔹 [📌 Nome do Projeto]()  
-Descrição curta do problema resolvido e das técnicas usadas.
 
-🔹 [📌 Nome do Projeto](link-do-repositório)  
-Ex: Análise exploratória, modelo preditivo, dashboard, etc.
+🔹 [📌 Nome do Projeto](https://colab.research.google.com/drive/1mbOXlcgQC7xRllxTLka9eRTjNSJ4kkkl?usp=sharing)  
+Projeto final do curso da EBAC 
+Exploração de dados;
+Transformação e limpeza de dados;
+Visualização de dados;
+Storytelling.
+🔹 [📌 Nome do Projeto](https://colab.research.google.com/drive/19osajUJyCfsVIHQT_tPT6Pj_I5V0L_V4?usp=sharing)
+Ex: 
+Árvore e decisão fazer uma arvore de uma decisão
+Árvore e decisão Separando 70% da base para treinamento e 30% para validação. Cada uma dessas partes terá dois objetos, um armazenando a variável resposta maue  e outro armazenando as variáveis explicativas.
+
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago24041985&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago24041985&layout=compact)
 
 ---
 
 ## 🌎 Onde me encontrar
-- 💼 LinkedIn: [seu-link]
-- 📧 Email: [seu-email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/thiagodados/]
+- 📧 Email: [tfranca258@gmail.com]
 - 🌐 Portfólio: [seu-site ou GitHub Pages]
 
 ---
 
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
