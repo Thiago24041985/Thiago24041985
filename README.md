@@ -1,29 +1,24 @@
-<h1 align="center">Olá 👋, eu sou Thiago</h1>
-<h3 align="center"> Sou apaixonado em dados e transformar dados em soluções inteligentes</h3>
+<h1 align="center">Oi 👋, eu sou Thiago Cientista de dados</h1>
+<h3 align="center">Sou apaixona em Ciência de dados no mundo digital</h3>
 
-- 🔭Atualmente estou estudando ciêntista de dados e o curso estar em andamneto [Projeto final python em análise de dados](https://colab.research.google.com/drive/1eV3HjgXa-WLrBqtsZK-aTMO02pNOM0Dx?usp=sharing)
+- 🔭 atualmente estou em exploração de dados ,visualização de dados,e analise de dados [PROJETO-PYTHON-PARA-ANALISE-DE-DADOS](https://github.com/Thiago24041985/PROJETO-PYTHON-PARA-ANALISE-DE-DADOS)
 
-- 🌱 Atualmente estou aprendendo **Python,SQL,Regressão linear,machine learn,limpeza de dados,exploração de dados,arvores e decisão**
+- 🌱 Atutalmente eu estou aprendendo **Python, SQL e Machine learng**
 
-- 💬 Me questione sobre **SQL,Pawer Bi,Matplotlib,Seaborn,Pandas,Numpy**
+- 👨‍💻 Todos os meus projetos [https://github.com/Thiago24041985](https://github.com/Thiago24041985)
 
-- 📫 Você me acha **tfranca258@gmail.com**
+- 💬 Me pergunte sobre **Pandas,Matplotlb,Seaborn,numpy,sklearn**
 
-- 📄 Aqui estão as minhas habilidades e experiências [https://www.linkedin.com/in/thiagodados/](https://www.linkedin.com/in/thiagodados/)
+- 📫 Você me acha ataves do email **tfranca258@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+- 📄 Aqui as minhas abilidades [https://www.linkedin.com/in/thiagodados/](https://www.linkedin.com/in/thiagodados/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiagodados/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiagodados/" height="30" width="40" /></a>
-<a <a href="https://fb.com/https://www.facebook.com/thiago.franca.5076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thiago.franca.5076" height="30" width="40" /></a>
 <a href="https://instagram.com/thiagodefrancados" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiagodefrancados" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/08011-050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="08011-050" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img <a href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
