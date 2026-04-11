@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Thiago Cientista de dados</h1>
+<h1 align="center">Oi 👋, Olá sou Thiago Cientista de dados</h1>
 <h3 align="center">Sou apaixona em Ciência de dados no mundo digital</h3>
 
 - 🔭 atualmente estou em exploração de dados ,visualização de dados,e analise de dados [PROJETO-PYTHON-PARA-ANALISE-DE-DADOS](https://github.com/Thiago24041985/PROJETO-PYTHON-PARA-ANALISE-DE-DADOS)
